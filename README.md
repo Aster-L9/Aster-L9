@@ -158,7 +158,7 @@ A cybersecurity assessment examining the security posture of an e-government pla
 ## ✦ Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B8A7E8?style=flat-square&logo=linkedin&logoColor=35323E)](
-[https://www.linkedin.com/in/layan-algublan-785825263])
+https://www.linkedin.com/in/layan-algublan-785825263)
 
 📍 Riyadh, Saudi Arabia
 
