@@ -76,7 +76,7 @@ I begin projects by understanding the problem before choosing the technology. I 
 
 ## ✦ Things I’ve Built
 
-### 🚗 Basirah | AI Smart Parking & Navigation System
+### 🚗 [Basirah](https://github.com/Aster-L9/Basirah) | AI Smart Parking & Navigation System
 
 A smart parking solution developed during a 48-hour MemryX Digital Hackathon to help Prince Sultan University users find, reserve, and navigate to available parking spaces.
 
@@ -90,7 +90,7 @@ A smart parking solution developed during a 48-hour MemryX Digital Hackathon to 
 
 ---
 
-### 🧠 Soluna — Mental Wellness Software Testing Project
+### 🧠 [SoLuna](https://github.com/Aster-L9/Soluna-) — Mental Wellness Software Testing Project
 
 A privacy-focused mental wellness platform designed around journaling, mood tracking, community interaction, and user privacy.
 
@@ -103,7 +103,7 @@ A privacy-focused mental wellness platform designed around journaling, mood trac
 
 ---
 
-### ✈️ WanderLog — Travel Scrapbook Platform [wanderLog](https://github.com/Aster-L9/wanderlog)
+### ✈️ [wanderLog](https://github.com/Aster-L9/wanderlog) — Travel Scrapbook Platform 
 
 A travel-focused web platform combining destination planning, personal journals, interactive experiences, and a subscription-based service model.
 
@@ -117,7 +117,7 @@ A travel-focused web platform combining destination planning, personal journals,
 
 ---
 
-### 🔐 OpenClinica — Secure Software Engineering Assessment [OpenClinica](https://github.com/Aster-L9/OpenClinica-)
+### 🔐 [OpenClinica](https://github.com/Aster-L9/OpenClinica-) — Secure Software Engineering Assessment 
 
 A security assessment of a clinical research platform focused on protecting sensitive patient and research information.
 
