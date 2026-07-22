@@ -90,7 +90,7 @@ A smart parking solution developed during a 48-hour MemryX Digital Hackathon to 
 
 ---
 
-### 🧠 [SoLuna](https://github.com/Aster-L9/Soluna-) — Mental Wellness Software Testing Project
+### 🧠 [SoLuna](https://github.com/Aster-L9/Soluna-) | Mental Wellness Software Testing Project
 
 A privacy-focused mental wellness platform designed around journaling, mood tracking, community interaction, and user privacy.
 
@@ -103,7 +103,7 @@ A privacy-focused mental wellness platform designed around journaling, mood trac
 
 ---
 
-### ✈️ [wanderLog](https://github.com/Aster-L9/wanderlog) — Travel Scrapbook Platform 
+### ✈️ [wanderLog](https://github.com/Aster-L9/wanderlog) | Travel Scrapbook Platform 
 
 A travel-focused web platform combining destination planning, personal journals, interactive experiences, and a subscription-based service model.
 
@@ -117,7 +117,7 @@ A travel-focused web platform combining destination planning, personal journals,
 
 ---
 
-### 🔐 [OpenClinica](https://github.com/Aster-L9/OpenClinica-) — Secure Software Engineering Assessment 
+### 🔐 [OpenClinica](https://github.com/Aster-L9/OpenClinica-) | Secure Software Engineering Assessment 
 
 A security assessment of a clinical research platform focused on protecting sensitive patient and research information.
 
@@ -131,7 +131,7 @@ A security assessment of a clinical research platform focused on protecting sens
 
 ---
 
-### 🛡️ SFDA — Security Risk Management Case Study
+### 🛡️ SFDA | Security Risk Management Case Study
 
 A cybersecurity assessment examining the security posture of an e-government platform and its protection of sensitive information.
 
