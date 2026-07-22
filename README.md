@@ -103,7 +103,7 @@ A privacy-focused mental wellness platform designed around journaling, mood trac
 
 ---
 
-### ✈️ WanderLog — Travel Scrapbook Platform
+### ✈️ WanderLog — Travel Scrapbook Platform [wanderLog](https://github.com/Aster-L9/wanderlog)
 
 A travel-focused web platform combining destination planning, personal journals, interactive experiences, and a subscription-based service model.
 
@@ -117,7 +117,7 @@ A travel-focused web platform combining destination planning, personal journals,
 
 ---
 
-### 🔐 OpenClinica — Secure Software Engineering Assessment
+### 🔐 OpenClinica — Secure Software Engineering Assessment [OpenClinica](https://github.com/Aster-L9/OpenClinica-)
 
 A security assessment of a clinical research platform focused on protecting sensitive patient and research information.
 
