@@ -131,7 +131,7 @@ A security assessment of a clinical research platform focused on protecting sens
 
 ---
 
-### 🛡️ SFDA | Security Risk Management Case Study
+### 🛡️ [SFDA](https://github.com/Aster-L9/SFDA-Security-Risk-Analysis) | Security Risk Management Case Study
 
 A cybersecurity assessment examining the security posture of an e-government platform and its protection of sensitive information.
 
